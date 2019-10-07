@@ -1,0 +1,14 @@
+body{
+  background:linear-gradient(to bottom,#8A1919 0%, #000000 100%)
+}
+div {
+  background-color:#ffffff;
+  border:;
+  padding:20px;
+  margin:0 auto;
+  width:600px;
+  text-align:justify;
+}
+div bigboy{
+  border:2px solid #000000;
+}
